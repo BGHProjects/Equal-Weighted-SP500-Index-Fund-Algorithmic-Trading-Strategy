@@ -13,7 +13,7 @@
 ## Overview
 
 - This repository is the result of following [this tutorial](https://www.youtube.com/watch?v=xfzGZB4HhEE) from Freecodecamp regarding examples of algorithmic trading
-- The purpose of following this tutorial was to strengthen my Pandas and NumPy skills, for future machine learning applications, by applying them into an area which I have nascent knowledge but a keen interest in, which is algorithmic trading
+- The purpose of following this tutorial was to strengthen my Pandas and Python skills, for future machine learning applications, by applying them into an area which I have nascent knowledge but a keen interest in, which is algorithmic trading
 - The content of this repository involves producing an investment portfolio which includes an equal magnitude of each stock in the [S&P500](https://www.spglobal.com/spdji/en/indices/equity/sp-500/#overview), as opposed to a weighting based on its market capitalisation
 - The datasets used for this implementation are not included in this repository
 
